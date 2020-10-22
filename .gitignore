@@ -1,0 +1,8 @@
+# Python
+venv
+
+# IDE
+.idea
+
+# Misc
+.DS_store
