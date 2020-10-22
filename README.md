@@ -1,10 +1,10 @@
-# smartninja-git-exercise
+# Smartninja git and bootstrap exercise
 
 Solve [Smartninja april challenge](https://github.com/smartninja/smartninja-challenges/blob/master/monthly-challenges/2020-4.md).
 
-From the readme
+## Challenge
 
-![](img/paris-theme.jpg)
+![](https://raw.githubusercontent.com/smartninja/smartninja-challenges/master/monthly-challenges/img/paris-theme.jpg)
 
 ### To complete the challenge, you can:
 
@@ -23,5 +23,3 @@ You can use [Canva.com](https://www.canva.com) to easily edit images if needed.
 
 - [Font Awesome](https://fontawesome.com/) (icons)
 - [UnDraw](https://undraw.co/illustrations) (illustrations)
-
-
