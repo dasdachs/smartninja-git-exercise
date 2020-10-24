@@ -3,9 +3,16 @@
 .footer {
 display: flex;
 flex-direction: column;
-background-color: #363534;
+background-color: #1a1918;
 text-align: center;
 height: 250px;
+}
+
+.upper {
+filter: invert(100%) !important;
+}
+.fas {
+filter: invert(10%)
 }
 
 img {
