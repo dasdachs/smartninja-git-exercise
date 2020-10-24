@@ -1,1 +1,27 @@
 /* Custom style */
+/* Footer */
+.footer {
+display: flex;
+flex-direction: column;
+background-color: #363534;
+text-align: center;
+height: 250px;
+}
+
+img {
+opacity: 0.5;
+margin-top: 15px;
+}
+
+.margin {
+margin: 5px;
+}
+
+p {
+color: #75706f;
+font-size: 0.855em;
+}
+
+.copyright {
+}
+
